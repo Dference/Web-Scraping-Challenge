@@ -7,7 +7,7 @@ Objective 1: Scrape titles and preview text from Mars news articles.
 Objective 2: Scrape and analyze Mars weather data, which exists in a table.
 
 ## Rocket Man
-The biggest challenge of this was to find the initial class attributes, after that it was all downhill. The weather challenge was pretty straightforward, just taking some new tools and combining them with Panda skills already acquired
+The biggest challenge of this was to find the initial class attributes, after that it was all downhill. The weather challenge was pretty straightforward, just taking some new tools, then combining them with Panda skills already acquired.
 
 ## Credits
 Yash Shah - Instructor
